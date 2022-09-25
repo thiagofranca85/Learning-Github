@@ -8,3 +8,4 @@ Doing my first commit with terminal.
 2. Changing README throught the GitHub site to do the 'PULL' command.
 3. Update the README text.
 4. Creating a new file, ADDing it and Pushing it.
+5. Merging Odin Project Repository with this one.
